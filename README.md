@@ -1,4 +1,6 @@
 # Commander
 api in .net core practice
 
-Used Postman in make requests
+
+
+Used Postman to make requests
